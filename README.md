@@ -3,6 +3,8 @@ zsh-startup-timer
 
 A zsh plugin to print the time it takes for the shell to start up.
 
+![Screenshot](https://raw.githubusercontent.com/paulmelnikow/zsh-startup-timer/85fa038b4188feb5c3eae133e5da1167e4e6995e/screenshot.png) 
+
 
 Note
 ----
